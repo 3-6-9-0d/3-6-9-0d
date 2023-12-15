@@ -1,6 +1,6 @@
 Hello there!
 
-<details><summary> Press me! </summary>
+<details><summary> About me</summary>
   
   *I am an aspiring cybersecurity enthusiast*
 
