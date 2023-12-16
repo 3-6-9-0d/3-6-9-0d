@@ -18,7 +18,7 @@ Hello there!
   - Physics
 
 </details>
-<details><summary> contact </summary>
+<details><summary> Discord </summary>
 
 3-6-9 #3_6_90
 
