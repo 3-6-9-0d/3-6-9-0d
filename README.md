@@ -4,9 +4,6 @@ Hello there!
   
   *I am an aspiring cybersecurity enthusiast*
 
-  - name: Three Hundred and Sixty Nine 
-  - Age:  Student
-
 </details>
 
 <details><summary> Interests? </summary>
